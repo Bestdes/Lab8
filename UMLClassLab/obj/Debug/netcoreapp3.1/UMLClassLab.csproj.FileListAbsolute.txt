@@ -1,0 +1,13 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\bin\Debug\netcoreapp3.1\UMLClassLab.exe
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\bin\Debug\netcoreapp3.1\UMLClassLab.deps.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\bin\Debug\netcoreapp3.1\UMLClassLab.runtimeconfig.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\bin\Debug\netcoreapp3.1\UMLClassLab.runtimeconfig.dev.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\bin\Debug\netcoreapp3.1\UMLClassLab.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\bin\Debug\netcoreapp3.1\UMLClassLab.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\UMLClassLab\UMLClassLab\obj\Debug\netcoreapp3.1\UMLClassLab.genruntimeconfig.cache
